@@ -1,0 +1,19 @@
+.contenedor{
+	width: 70%;
+	max-width: 100%px;
+	margin: 0 auto;
+	background: chartreuse;
+}
+header{
+	background: blue;
+
+}
+ header h1{
+
+ }
+
+ .text-center{   
+	text-align: center;
+	font-size: 20px;
+ }
+
