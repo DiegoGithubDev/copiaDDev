@@ -1,1 +1,15 @@
-estilosGeneral.css
+.text-muteds
+	{
+	   color:#666;
+	   font-size: 20px;
+	   line-height: 1.5185;
+	   font-weight: 200;
+	   text-align: center;
+	}
+	p{
+	   font-size:12px;
+	}
+	.row {
+            margin-right: 0px;
+            margin-left: 0px;
+	     }
