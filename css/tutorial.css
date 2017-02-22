@@ -1,13 +1,33 @@
-.contenedor{
-	width: 70%;
-	max-width: 100%px;
-	margin: 0 auto;
-	background: chartreuse;
-}
 header{
 	background: blue;
 
 }
+
+.contenedor{
+	width: 80%;
+	max-width: 100%px;
+	margin: 0 auto;
+	background: white;
+	
+
+}
+
+
+div { 
+   
+    margin: 30px;
+    padding: 20px;
+    background-color: rgb(233, 232, 237);
+    border: 1px solid transparent;
+    border-radius: 5px;
+
+}
+
+.collapse.in {
+    display: block;
+    visibility: visible;
+}
+
  header h1{
 
  }
