@@ -5,3 +5,23 @@
 h1{
 	text-align: center;
 }
+#nnavbar{
+    /*background-image:url(http://i1223.photobucket.com/albums/dd506/Berkershind/Fond.png);*/
+    background-repeat:no-repeat;
+    margin-right: 400px;
+    padding-top: 6px;
+    margin-left: 80px;
+}    
+#navbar1{
+	margin-right: 5px;
+}   	
+#footer .inner {
+    padding: 15px 0px;
+	text-align: left;
+	
+}
+#footer{
+    padding: 15px 0px;
+	text-align: center;
+	background: #D3D3D3;
+}
